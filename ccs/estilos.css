@@ -66,6 +66,11 @@ text-align: center;
 align-items: center;
 }
 
+.textoindexinferior{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .fontTitulos{
     font-style: bold;
     font-size: 40px;
