@@ -59,17 +59,8 @@ padding: 50px 50px;
 }
 
 .indexinferior{
-display: grid;
-grid-template-columns: repeat(2, 1fr);
-grid-template-rows: repeat(2, 1fr);
-column-gap: 15px;
-row-gap: 30px;
-justify-items: center;
-align-content: center;
+display: flex;
 justify-content: center;
-margin-bottom: 50px;
-padding: 50px;
-text-align: center;
 }
 
 .fontTitulos{
