@@ -60,6 +60,7 @@ padding: 50px 50px;
 
 .indexinferior{
 display: flex;
+flex-direction: row;
 justify-content: center;
 }
 
