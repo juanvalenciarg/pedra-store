@@ -59,9 +59,8 @@ padding: 50px 50px;
 }
 
 .indexinferior{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+padding: 10px;
+margin-bottom: 15px;
 }
 
 .textoindexinferior{
