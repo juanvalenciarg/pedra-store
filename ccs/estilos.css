@@ -58,6 +58,12 @@ padding: 50px 50px;
     justify-content: center;
 }
 
+.indexinferior{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .textoindexinferior{
 display: flex;
 justify-content: center;
