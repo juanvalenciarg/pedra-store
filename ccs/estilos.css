@@ -58,6 +58,11 @@ padding: 50px 50px;
     justify-content: center;
 }
 
+.indexinferior{
+    padding: 10px;
+    margin: 10px;
+}
+
 .btn boton_tienda mx-auto{
     margin-bottom: 15px;
 }
