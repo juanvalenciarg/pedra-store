@@ -4,9 +4,9 @@ body {
 
 /*Fonts*/
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300&display=swap');
-@font-face {
-    font-family: "Josefin";
-    src: url(/assets/font/JosefinSans-Light.ttf);
+
+html {
+    font-family: 'Josefin Sans', sans-serif;
     
 }
 /*Selector universal*/
