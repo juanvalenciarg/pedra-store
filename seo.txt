@@ -1,0 +1,20 @@
+Titulos de las pagínas quedaron asi: 
+
+Pedra | Home
+Pedra | Tienda
+Pedra | Producto
+Pedra | Nosotros
+Pedra | Contacto
+
+Cada pagína quedo con un meta descripcion basado en su contenido: 
+
+Inicio: "Joyería Colombiana. Creamos anillos de compromiso personalizados"
+Tienda: "Descubre nuestra tienda online con los mejores diseños"
+Producto: "Descubre este diseño que creamos para ti"
+Nosotros: "Conoce un poco mas sobre nosotros"
+Contacto: "Si tienes dudas o inquietudes, ponte en contacto con nosotros"
+
+Las palabras claves para todas la pagínas: 
+
+"joyería, joyería bogota, joyas, anillos, anillos de compromiso, joyas de oro, joyas de plata"
+
