@@ -79,6 +79,8 @@ margin-bottom: 10px;
 
 .fotoindexinferior{
     display: flex;
+    justify-content: center;
+    align-items: center;
     margin-left: auto;
     margin-right: auto;
     margin: 10px;
