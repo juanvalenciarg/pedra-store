@@ -67,6 +67,10 @@ padding: 50px 50px;
     margin-bottom: 15px;
 }
 
+.btn boton_index{
+    margin-bottom: 15px;
+}
+
 .textoindexinferior{
 display: flex;
 justify-content: center;
